@@ -7,7 +7,7 @@ WebTorrent, the streaming torrent client. For the command line.
 - **Latest release**: `v6.0.1` (2026-08-19)
 - **Last commit**: 2026-08-19
 - **License**: MIT
-- **Stars**: 1372 · **Forks**: 151 · **Open issues**: 158 · **Contributors**: 58
+- **Stars**: 1371 · **Forks**: 151 · **Open issues**: 158 · **Contributors**: 58
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/webtorrent-cli> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T12:03:13Z._
+_Last regenerated: 2026-09-09T05:56:35Z._
