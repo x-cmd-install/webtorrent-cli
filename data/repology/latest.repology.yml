@@ -1,0 +1,19 @@
+- repo: aur
+  srcname: webtorrent-cli
+  binname: webtorrent-cli
+  visiblename: webtorrent-cli
+  version: 6.0.1
+  origversion: 6.0.1-1
+  status: newest
+  summary: The streaming torrent client. For the command line.
+  maintainers:
+    - navarroaxel@aur
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: webtorrent-cli
+  visiblename: webtorrent-cli
+  version: 6.0.0
+  origversion: null
+  status: outdated
+  summary: Command-line streaming torrent client
