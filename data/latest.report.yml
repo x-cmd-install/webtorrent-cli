@@ -7,7 +7,7 @@ about:
   latestVersion: "v6.0.1"
   latestRelease: "v6.0.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:59:24Z
+  collectedAt: 2026-09-11T18:53:11Z
 timeline:
   created: 2016-03-11
   lastCommit: 2026-08-19
@@ -84,7 +84,7 @@ total:
   commit: 621
 ---
 path: /home/runner/.x-repo/github.com/webtorrent/webtorrent-cli
-collectedAt: 2026-09-11T05:59:26Z
+collectedAt: 2026-09-11T18:53:12Z
 loc:
   JavaScript:
     code: 824
