@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,370 · **Forks**: 153 · **Open issues**: 158 · **Contributors**: 58
+- **Stars**: 1,371 · **Forks**: 152 · **Open issues**: 158 · **Contributors**: 58
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-22 | 1 | 1 | 2 | 0 | 1 | 3 |
-| 90d | 2026-06-22 | 1 | 4 | 4 | 0 | 1 | 6 |
-| last180d | 2026-03-24 | 2 | 10 | 6 | 1 | 2 | 21 |
-| 360d | 2025-09-25 | 2 | 15 | 6 | 2 | 2 | 21 |
-| last720d | 2024-09-30 | 3 | 17 | 7 | 6 | 3 | 23 |
+| 30d | 2026-08-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-23 | 1 | 1 | 2 | 0 | 1 | 3 |
+| 90d | 2026-06-23 | 1 | 4 | 4 | 0 | 1 | 6 |
+| last180d | 2026-03-25 | 2 | 10 | 6 | 1 | 2 | 21 |
+| 360d | 2025-09-26 | 2 | 15 | 6 | 2 | 2 | 21 |
+| last720d | 2024-10-01 | 3 | 17 | 7 | 6 | 3 | 23 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for webtorrent-cli lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T06:02:02Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T06:10:21Z._
