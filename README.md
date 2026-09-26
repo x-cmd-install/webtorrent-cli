@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-27 | 1 | 1 | 1 | 0 | 0 | 3 |
-| 90d | 2026-06-27 | 1 | 4 | 3 | 0 | 1 | 6 |
-| last180d | 2026-03-29 | 2 | 10 | 6 | 1 | 2 | 21 |
-| 360d | 2025-09-30 | 2 | 15 | 6 | 2 | 2 | 21 |
-| last720d | 2024-10-05 | 3 | 16 | 7 | 6 | 3 | 23 |
+| 30d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-28 | 1 | 1 | 0 | 0 | 0 | 3 |
+| 90d | 2026-06-28 | 1 | 4 | 3 | 0 | 1 | 6 |
+| last180d | 2026-03-30 | 2 | 10 | 6 | 1 | 2 | 21 |
+| 360d | 2025-10-01 | 2 | 15 | 6 | 2 | 2 | 21 |
+| last720d | 2024-10-06 | 3 | 16 | 7 | 6 | 3 | 23 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for webtorrent-cli lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T05:56:22Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T05:52:34Z._
