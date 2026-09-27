@@ -14,11 +14,11 @@ x install webtorrent-cli
 
 ## Code insight
 
-Total: **941** lines of code across **10** files in the top 5 languages.
+Total: **947** lines of code across **10** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 824 | 38 | 176 | 3 |
+| JavaScript | 830 | 38 | 175 | 3 |
 | Json | 100 | 0 | 0 | 1 |
 | Sh | 17 | 2 | 1 | 1 |
 | Markdown | 0 | 299 | 215 | 4 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v6.0.1` (2026-08-19)
-- **Last commit**: 2026-08-19
+- **Last commit**: 2026-09-27
 
 ## Popularity
 
-- **Stars**: 1,373 · **Forks**: 152 · **Open issues**: 158 · **Contributors**: 58
+- **Stars**: 1,373 · **Forks**: 153 · **Open issues**: 158 · **Contributors**: 59
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 143 · **Open PRs**: 7 · **Closed issues**: 149 · **Open issues**: 9 · **Commits**: 621
+- **Releases**: 27 · **Merged PRs**: 144 · **Open PRs**: 7 · **Closed issues**: 149 · **Open issues**: 9 · **Commits**: 622
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-28 | 1 | 1 | 0 | 0 | 0 | 3 |
-| 90d | 2026-06-28 | 1 | 4 | 3 | 0 | 1 | 6 |
-| last180d | 2026-03-30 | 2 | 10 | 6 | 1 | 2 | 21 |
-| 360d | 2025-10-01 | 2 | 15 | 6 | 2 | 2 | 21 |
-| last720d | 2024-10-06 | 3 | 16 | 7 | 6 | 3 | 23 |
+| 30d | 2026-08-28 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-07-29 | 1 | 2 | 0 | 0 | 0 | 4 |
+| 90d | 2026-06-29 | 1 | 5 | 3 | 0 | 1 | 7 |
+| last180d | 2026-03-31 | 2 | 11 | 6 | 1 | 2 | 22 |
+| 360d | 2025-10-02 | 2 | 16 | 6 | 2 | 2 | 22 |
+| last720d | 2024-10-07 | 3 | 17 | 7 | 6 | 3 | 24 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for webtorrent-cli lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T05:52:34Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T06:16:20Z._
