@@ -31,8 +31,8 @@ x install webtorrent-cli
 评分最低的几项:
 
 - **Code-Review** (2/10) — Found 3/11 approved changesets -- score normalized to 2
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## 源代码
 
@@ -57,12 +57,12 @@ x install webtorrent-cli
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last60d | 2026-08-08 | 1 | 1 | 0 | 0 | 0 | 4 |
-| 90d | 2026-07-09 | 1 | 5 | 3 | 0 | 1 | 6 |
-| last180d | 2026-04-10 | 2 | 11 | 6 | 1 | 2 | 22 |
-| 360d | 2025-10-12 | 2 | 16 | 6 | 2 | 2 | 22 |
-| last720d | 2024-10-17 | 3 | 17 | 7 | 6 | 3 | 24 |
+| 30d | 2026-09-08 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-08-09 | 1 | 1 | 0 | 0 | 0 | 4 |
+| 90d | 2026-07-10 | 1 | 5 | 3 | 0 | 1 | 6 |
+| last180d | 2026-04-11 | 2 | 11 | 6 | 1 | 2 | 22 |
+| 360d | 2025-10-13 | 2 | 16 | 6 | 2 | 2 | 22 |
+| last720d | 2024-10-18 | 3 | 17 | 7 | 6 | 3 | 24 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ webtorrent-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/in
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261007.yml` · 2026-10-07T06:58:13Z._
+_数据快照: `data/card/261008.yml` · 2026-10-08T07:01:21Z._
