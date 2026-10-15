@@ -26,12 +26,12 @@ x install webtorrent-cli
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5 / 10**
+总评分: **4.9 / 10**
 
 评分最低的几项:
 
 - **Code-Review** (2/10) — Found 3/11 approved changesets -- score normalized to 2
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Maintained** (4/10) — 5 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 4
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## 源代码
@@ -57,12 +57,12 @@ x install webtorrent-cli
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last60d | 2026-08-15 | 1 | 1 | 0 | 0 | 0 | 4 |
-| 90d | 2026-07-16 | 1 | 3 | 2 | 0 | 1 | 4 |
-| last180d | 2026-04-17 | 1 | 10 | 6 | 0 | 2 | 11 |
-| 360d | 2025-10-19 | 2 | 14 | 6 | 2 | 2 | 22 |
-| last720d | 2024-10-24 | 3 | 17 | 7 | 6 | 3 | 24 |
+| 30d | 2026-09-15 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-08-16 | 1 | 1 | 0 | 0 | 0 | 4 |
+| 90d | 2026-07-17 | 1 | 3 | 2 | 0 | 1 | 4 |
+| last180d | 2026-04-18 | 1 | 10 | 6 | 0 | 2 | 11 |
+| 360d | 2025-10-20 | 2 | 14 | 6 | 2 | 2 | 22 |
+| last720d | 2024-10-25 | 3 | 17 | 7 | 6 | 3 | 24 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ webtorrent-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/in
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261014.yml` · 2026-10-14T05:55:06Z._
+_数据快照: `data/card/261015.yml` · 2026-10-15T05:33:05Z._
