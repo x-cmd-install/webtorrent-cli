@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,384 · **Forks**: 152 · **Open issues**: 158 · **Contributors**: 59
+- **Stars**: 1,385 · **Forks**: 152 · **Open issues**: 158 · **Contributors**: 59
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 145 · **Open PRs**: 7 · **Closed issues**: 149 · **Open issues**: 9 · **Commits**: 623
+- **Releases**: 27 · **Merged PRs**: 145 · **Open PRs**: 7 · **Closed issues**: 150 · **Open issues**: 8 · **Commits**: 623
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last60d | 2026-08-27 | 0 | 2 | 0 | 0 | 0 | 2 |
-| 90d | 2026-07-28 | 1 | 3 | 0 | 0 | 0 | 5 |
-| last180d | 2026-04-29 | 1 | 11 | 6 | 0 | 2 | 12 |
-| 360d | 2025-10-31 | 2 | 15 | 6 | 2 | 2 | 23 |
-| last720d | 2024-11-05 | 3 | 18 | 7 | 6 | 3 | 25 |
+| 30d | 2026-09-27 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-08-28 | 0 | 2 | 0 | 0 | 0 | 2 |
+| 90d | 2026-07-29 | 1 | 3 | 0 | 0 | 0 | 5 |
+| last180d | 2026-04-30 | 1 | 11 | 6 | 1 | 1 | 12 |
+| 360d | 2025-11-01 | 2 | 15 | 6 | 2 | 1 | 23 |
+| last720d | 2024-11-06 | 3 | 18 | 7 | 7 | 2 | 25 |
 
 ## Distribution status
 
@@ -81,4 +81,4 @@ Install metadata for webtorrent-cli lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:37:21Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T06:00:04Z._
